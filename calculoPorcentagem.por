@@ -1,6 +1,3 @@
-//Essa é a solução que encontramos para a aplicação, 
-//não tem problema se a sua solução for difrerente, 
-//o importante é alcançar o objetivo
 programa
 {
 	
@@ -35,14 +32,4 @@ programa
 		escreva(valor+" com "+porcentagem+"% de juros é "+valorJuros+"\n")
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 210; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {valor, 10, 7, 5}-{porcentagem, 11, 7, 11}-{valorPorcentagem, 12, 7, 16};
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
+
